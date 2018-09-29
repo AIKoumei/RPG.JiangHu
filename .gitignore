@@ -1,0 +1,8 @@
+!.gitignore
+!/mod/
+
+# vscode workspace file
+/.vscode/
+**/.vscode/
+
+#
