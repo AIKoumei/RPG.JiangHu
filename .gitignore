@@ -1,0 +1,14 @@
+!.gitignore
+!/mod/
+
+# vscode workspace file
+/.vscode/
+**/.vscode/
+
+#
+/base/
+/behaviour_tree/
+/fms/
+/math/
+/test/
+/util/
